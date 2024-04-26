@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProductProjectonreact.git/static/css/main.ae651964.css",
+    "main.js": "/ProductProjectonreact.git/static/js/main.b4e56cc9.js",
+    "static/js/453.ca3b48e1.chunk.js": "/ProductProjectonreact.git/static/js/453.ca3b48e1.chunk.js",
+    "index.html": "/ProductProjectonreact.git/index.html",
+    "main.ae651964.css.map": "/ProductProjectonreact.git/static/css/main.ae651964.css.map",
+    "main.b4e56cc9.js.map": "/ProductProjectonreact.git/static/js/main.b4e56cc9.js.map",
+    "453.ca3b48e1.chunk.js.map": "/ProductProjectonreact.git/static/js/453.ca3b48e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae651964.css",
+    "static/js/main.b4e56cc9.js"
+  ]
+}
